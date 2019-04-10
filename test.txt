@@ -1,4 +1,4 @@
 this is a simple text file Thi is new and updated file after the commit 
 :wq
 :wq
-
+new changes inserted
